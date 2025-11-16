@@ -1,2 +1,2 @@
-# Mickayla-Cybersecurity-portfolio
-Completed Google Cybersecurity Professional Certificate with hands-on projects in security auditing, vulnerability assessment, incident response, and threat detection. Proficient in NIST frameworks, Linux, SQL, network analysis (Wireshark, tcpdump), IDS (Suricata), SIEM tools (Splunk, Chronicle), and Python security automation.
+# **Professional statement:**
+I am an adaptable and driven aspiring cybersecurity professional with strong communication skills and efficient time management abilities. I am actively developing technical proficiency in SQL and Python, committed to staying ahead of evolving threats in a dynamic landscape. I am passionate about upholding security standards and protecting people and their data from threat actors, while supporting organizational goals through a unique perspective that balances technical security with business growth and reputation protection.
